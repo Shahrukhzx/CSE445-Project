@@ -1,0 +1,16 @@
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Logs
+*.log
+
+# Ignore data files or datasets (adjust extensions as needed)
+*.xlsx
